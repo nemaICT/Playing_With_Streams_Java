@@ -1,0 +1,10 @@
+
+Dsquid:S1068"(Remove this unused "exit" private field.(ó¢ªéÿÿÿÿÿ
+n
+squid:S1283"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ8˜ÓÃÖ€.
+}squid:S1450"ZRemove the "dishCreator" field and declare it as a local variable in the relevant methods.(ë¨„öşÿÿÿÿ8áÍÃ–û-
+hsquid:HiddenFieldChecks":Rename "dishes" which hides the field declared at line 23.(‡ï±¸ùÿÿÿÿ8˜ÓÃÖ€.
+Ssquid:EmptyStatementUsageCheckç"Remove this empty statement.(Ø²ôĞÿÿÿÿÿ8˜ÓÃÖ€.
+Ssquid:EmptyStatementUsageCheckì"Remove this empty statement.(Ø²ôĞÿÿÿÿÿ8˜ÓÃÖ€.
+hsquid:HiddenFieldCheckk":Rename "dishes" which hides the field declared at line 23.(¤¢şÿÿÿÿ8˜ÓÃÖ€.
+Ksquid:S1068"(Remove this unused "menu" private field.(Í‰°şÿÿÿÿ8ğÁœ‘ı-

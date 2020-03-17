@@ -1,0 +1,4 @@
+
+e$squid:AssignmentInSubExpressionCheck#".Extract the assignment out of this expression.(Ñ¦Ðž8úž¤õü-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùæñÃûÿÿÿÿ
+]squid:S1854#"?Remove this useless assignment to local variable "avgCalories".(Ñ¦Ðž8úž¤õü-

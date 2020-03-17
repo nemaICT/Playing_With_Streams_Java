@@ -1,0 +1,10 @@
+
+nsquid:S1450"WRemove the "readFile" field and declare it as a local variable in the relevant methods.(şÑüÏ
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰®˜Àúÿÿÿÿ8Ş¦¦´ş-
+~squid:S3923S"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ä¹Áûüÿÿÿÿ8ŠÓû–ı-
+isquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(‹ú·¿8‚öÄœı-
+isquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(±¼ƒ8ãö¶•ı-
+isquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(³´™ 8æÄœı-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùæñÃûÿÿÿÿ
+jsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ºÚÅ…8—êüı-
+squid:S1488Q"lImmediately return this expression instead of assigning it to the temporary variable "dishesByCaloricLevel".(¬•Ãûÿÿÿÿ8ÜÆı•ı-

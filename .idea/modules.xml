@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BLL/BLL.iml" filepath="$PROJECT_DIR$/BLL/BLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DLL/DLL.iml" filepath="$PROJECT_DIR$/DLL/DLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTERFACES/INTERFACES.iml" filepath="$PROJECT_DIR$/INTERFACES/INTERFACES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Playing_With_Streams_Java.iml" filepath="$PROJECT_DIR$/Playing_With_Streams_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STARTUP/STARTUP.iml" filepath="$PROJECT_DIR$/STARTUP/STARTUP.iml" />
+    </modules>
+  </component>
+</project>
